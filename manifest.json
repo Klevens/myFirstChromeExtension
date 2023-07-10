@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Mi primera extension de chrome",
+    "name": "Get a random Pokemon",
     "version" : "1.0",
     "description" : "Esta es mi primera extension de chrome",
     "icons": {

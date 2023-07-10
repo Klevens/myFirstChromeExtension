@@ -7,6 +7,6 @@
         "128" : "icon128.png"
     },
     "action": {
-        "default_popup": ""
+        "default_popup": "popup.html"
     }
 }
